@@ -1,6 +1,7 @@
 """import streamlit as st
 
 st.title("Chai Maker App")
+st.write("Let's make Chai together")
 
 if st.button("Make Chai"):      #Returns True when clicked, triggering actions or calculations.
     st.success("Your chai is being brewed")
